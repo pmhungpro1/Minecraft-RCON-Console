@@ -16,9 +16,9 @@ This file is part of Minecraft-RCON-Console.
     along with Minecraft-RCON-Console.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-$rconHost = "localhost";
-$rconPort = 25575;
-$rconPassword = "rconpassword";
+$rconHost = "ebes.playmc.pe;
+$rconPort = 38398;
+$rconPassword = "pvf7lzj95s";
 
 $queryHost = "localhost";
 $queryPort = 25585;
